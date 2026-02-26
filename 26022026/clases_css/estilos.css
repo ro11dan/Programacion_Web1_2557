@@ -1,0 +1,17 @@
+/* selector general de h1 */
+h1{ 
+    color: chocolate;
+}
+/* para generar una clase utilizamos un punto antes de la clase
+sespues ponemos el nombre de la clase que vamos a asignar */
+
+.tituloAzul{
+    color: blue;
+}
+.tituloRojo{
+    color: red;
+}
+.tituloBorde{
+    background-color: yellow;
+    border: 1px solid black;
+}
