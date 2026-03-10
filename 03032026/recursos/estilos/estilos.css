@@ -1,0 +1,48 @@
+body{
+    font-family: Arial;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+/* Encabezado */
+header{
+    background-color: darkslategrey;
+    color: aliceblue;
+    padding: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+}
+header .logo h1{
+    margin: 0px;
+    padding-left: 30px;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0px;
+    padding-left: 30px;
+
+}
+.anclas{
+    color: aquamarine;
+}
+section{
+    padding: 20px;
+    margin: 10px;
+    background-color: azure;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px black;
+}
+h2{
+    color: red;
+}
+footer{
+    background-color: darkslategray;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px; 
+    border-radius: 10px;
+
+}
